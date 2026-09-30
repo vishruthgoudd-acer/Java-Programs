@@ -1,0 +1,7 @@
+print("race details of the recent tokyo's shizuka circuit in the sunday !")
+car = ("the mighty R34 ")
+driver = ("The mighty MAMBA ")
+print(f"The winning car is {car}")
+print(f"The driver behind the success of nissan : {driver}")
+print("things escalated quickly as nissan won a astonishing win after so many years ")
+print("every night feels like heaven for him from now")

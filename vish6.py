@@ -1,0 +1,11 @@
+print("the match results of india vs australia ")
+bsmn = ("right hand alrounder vishruth")
+bwlr = ("vishruth")
+print("the match's initial impressions were completely different from result")
+print("the match turned into 1 vs 11 as he stepped in ")
+print("he proved evry one that young talent still outperforms occasional players  ")
+print("consistency over overconfidence ")
+print("and finally the Mighty team blue caps India captilaises a spectacular win is perth")
+print(f"as the young {bsmn} had different thoughts in his mind  ")
+print(f" {bwlr} also made very astonishing bowling when even his seniors struglled")
+
